@@ -1,0 +1,2 @@
+# Agrisence-pro
+Agrisence Pro is an AI-powered agriculture application using Machine Learning, Deep Learning, Flask API, and Streamlit. It predicts suitable crops, analyzes plant diseases, visualizes agricultural data, and provides smart farming insights through an interactive web interface.
